@@ -1,4 +1,3 @@
-<div align="center">
 
 # 🧠 Programming Quiz App
 
@@ -101,4 +100,3 @@ PyQt5 5.x
 <div align="center">
 Сделано с ❤️ на Python + PyQt5
 
-</div> ```
