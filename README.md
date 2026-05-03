@@ -75,8 +75,8 @@
 ### 1. Клонируй репозиторий
 
 ```bash
-git clone https://github.com/ТВОЙ_НИКНЕЙМ/card_reader.git
-cd card_reader
+git clone https://github.com/dibofailet-hash/Simple_Card_Game
+cd Simple_Card_Game
 2. Установи зависимости
 Bash
 
